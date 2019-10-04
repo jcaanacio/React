@@ -20,3 +20,46 @@
 .App-link {
   color: #09d3ac;
 }
+
+
+.mainContent {
+	
+	margin: 4rem;
+}
+
+.marged-4-rem {
+	margin: 4rem;
+}
+
+.marged-1-rem {
+	margin: 1rem;
+}
+
+.centered {
+	text-align: center;
+}
+
+
+.marged-2-rem {
+	margin: 1rem;
+}
+
+.btn-exam-primary {
+	color: #fff !important;
+    background: mediumpurple !important;
+}
+
+
+img.btn-icon {
+	vertical-align:caption-side;
+	margin: 0.3rem;
+}
+
+body, html {
+	height: 100%;
+	margin: 0;
+	background-image: url("/images/Carly_BG.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
